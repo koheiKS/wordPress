@@ -24,3 +24,9 @@ vagrant reload
 http://localhost:8080/
 http://localhost:8080/phpmyadmin/ (ユーザ名:root, パスワード:無し)
 ```
+
+### wordpress管理者アカウント
+```
+ユーザ名: wordpress
+パスワード: wordpress
+```
